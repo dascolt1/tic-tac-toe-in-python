@@ -1,4 +1,4 @@
-#tic tac toe AI
+#tic tac toe against the computer
 
 board = [' ' for x in range(10)]
 
